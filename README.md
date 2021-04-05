@@ -1,8 +1,8 @@
 Hi everyone, my name is Thomas.
 
-- Currently learning Full Stack development with Le Wagon Rennes ! 💻 
+- 💻 Currently learning Full Stack development with Le Wagon Rennes !  
 
-- I am interested in music and new technologies 🎧
+- 🎧 I am interested in music and new technologies 
 
 See you soon with more commits !
 
